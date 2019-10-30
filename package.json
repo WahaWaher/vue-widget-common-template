@@ -1,0 +1,24 @@
+{
+  "name": "vue-widget-common-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.3.2",
+    "document-register-element": "^1.14.3",
+    "lodash": "^4.17.15",
+    "vue": "^2.6.10",
+    "vue-custom-element": "^3.2.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-service": "^4.0.0",
+    "html-beautify-webpack-plugin": "^1.0.5",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
